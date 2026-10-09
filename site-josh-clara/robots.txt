@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://joshclara.com/sitemap.xml
